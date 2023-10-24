@@ -1,0 +1,5 @@
+name,type,bonus hit,damage
+scimitar,dexterity,4,"1d6+mod"
+"short bow",dexterity,4,"1d6+mod"
+club,strength,2,"1d4+mod"
+bite,strength,0,1

@@ -1,0 +1,12 @@
+name: Greg
+class: Warrior
+armor: nothing
+weapon: nothing
+exp: 0
+hp: 14
+strength: 17
+dexterity: 14
+constitution: 15
+intelligence: 14
+wisdom: 11
+charisma: 15

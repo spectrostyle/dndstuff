@@ -1,0 +1,4 @@
+monster,class,armor,weapon,exp,health,strength,dexterity,constitution,intelligence,wisdom,charisma
+goblin,none,"15: leather armor, shield","scimitar, short bow",50,2d6,8,14,10,10,8,8
+commoner,none,"10: nothing","club",10,1d8,10,10,10,10,10,10
+rat,none,"10: nothing","bite",10,"1d4",2,11,9,2,10,4
